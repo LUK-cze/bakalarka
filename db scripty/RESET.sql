@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS `relationships`;
+DROP TABLE IF EXISTS `contact_has_tags`;
+DROP TABLE IF EXISTS `contacts`;
+DROP TABLE IF EXISTS `tags`;
+DROP TABLE IF EXISTS `groups`;
+DROP TABLE IF EXISTS `users`;
